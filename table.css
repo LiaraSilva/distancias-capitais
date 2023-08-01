@@ -1,0 +1,21 @@
+table, tr, td, th{
+    border: solid 1px black;
+}
+tr, td{
+    width: 45px;
+}
+th{
+    background-color: green;
+}
+table{
+    border-collapse: collapse;
+}
+table{
+    width: 15%;
+}
+th{
+    height: 35px;
+}
+tr:hover{
+    background-color: rgb(116, 250, 116);
+}
